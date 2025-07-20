@@ -1,5 +1,7 @@
 # Thiraipathivu – Movie & Series Tracker
 
+<img width="1102" height="833" alt="Thiraipathivu" src="https://github.com/user-attachments/assets/081d30d2-fbf6-42ff-9404-f42a76bf5fb3" />
+
 ## Project Description
 
 Thiraipathivu is a free and offline desktop application designed for movie and series enthusiasts to track their viewing history. It offers a user-friendly interface to manage a personal collection of movies and series, including details like titles, genres, release dates, watch dates, times watched, ratings, and languages. It helps you manage and track your entire viewing history with ease. The application uses a SQLite database for persistent storage and supports Windows, Linux and macOS.
